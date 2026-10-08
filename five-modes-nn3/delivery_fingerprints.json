@@ -1,0 +1,17 @@
+{
+  "index.html": "c714d5175932b06327e9bd5a58d246163f0bef0f7cf6beae16fdf30287e5b266",
+  "data.json": "b428f6262b4722e5654338f4d9dde22fd30599ae1d467076f1eb5fff6ee09551",
+  "metrics.csv": "6e5ce1c0f693a480de625e44a66faca8de2c13772c5beba345b700e7f3645f1e",
+  "monthly_returns.csv": "d36820b1e22ae1c78f1cd9201a7ba7718f83458b788727a2b566e8af44419e6e",
+  "paired_differences.csv": "359c98db83f9f995652e26c1168a920b7c36e27c1084346635d36e1901dc95a6",
+  "five_mode_summary.csv": "0802d2ccdadff1708130ae1832b2248f46e056c92108c7c7e42b2372c95b8726",
+  "source_fingerprints.json": "15f8aa488865b4a7951d4f5f1afca85389e872a27edb74b337a59d21683bc982",
+  "report_audit.json": "f0b445cc436acab197007d5a26a76dbbae263fd352a0dad71f64588609466ddb",
+  "verification.json": "1e103dc23f8251e51daa5cd392c22f503a6ee213ed3924106c5934c523f90d2d",
+  "README.md": "324ab1dded4e27ed573688d656d8ebff7bc5d0fe2d3373297aa20179c3dfacbe",
+  "ECHARTS_LICENSE.txt": "634293835b43a6dd2094fa39182a3d9a6b9ca43b7fdb9ac354e8037af2a3093a",
+  "build_report.py": "47c8bd15cde1b5bf326cf178e435ff0d305589224e6d7cc950ef1f37a58884e8",
+  "report.template.html": "1e0e64856f264b77ea390e666e6855b7c877e74869a01d7d1debb8eac0bd75e9",
+  "echarts.min.js": "e84270bd0cd5bdf60fefc26d00c2a391cb2e81f4d26a7a9ee16185a54773a3cf",
+  "five_modes_nn3_report.zip": "74957e9cfc4e4a2a71f52759ea3fc2bfb6962abd6e889d0328aba10d939b4f70"
+}

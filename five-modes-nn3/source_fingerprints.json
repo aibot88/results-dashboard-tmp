@@ -1,0 +1,15 @@
+{
+  "G:\\aibot\\AssertBert\\eval\\addEvalAll\\outputs_tuning_20261008\\metrics.csv": "26ece2a5f61e951805be0d7f96fe1cb9eb06d927facdb891e20498b10611488b",
+  "G:\\aibot\\AssertBert\\eval\\addEvalAll\\outputs_tuning_20261008\\portfolio_monthly.csv": "30222eeba183568d847da8eb919e7676e2d44118a7fb294fb0a4dc4bef471cf7",
+  "G:\\aibot\\AssertBert\\eval\\addEvalAll\\outputs_tuning_20261008\\five_mode_summary.csv": "0802d2ccdadff1708130ae1832b2248f46e056c92108c7c7e42b2372c95b8726",
+  "G:\\aibot\\AssertBert\\eval\\addEvalAll\\outputs_tuning_20261008\\frozen_selection.json": "48b1413ebad05f7a4e0d33d73fb6a22653b6b7fc97175e80a78a61661f30921a",
+  "G:\\aibot\\AssertBert\\eval\\addEvalAll\\outputs_tuning_20261008\\frozen_selection.sha256.json": "b394e7f5085b8ded6df861c7861fd4a6ec143d7808171e79e3fb6e7a3838c047",
+  "G:\\aibot\\AssertBert\\eval\\addEvalAll\\outputs_tuning_20261008\\results.json": "507527bdf26f908df780386501f77cc36efc9b51f472cc8de0cc341a06e1418a",
+  "G:\\aibot\\AssertBert\\eval\\addEvalAll\\outputs_tuning_20261008\\intersection.parquet": "4478a1fb52903439f1b5b4711768838f6b4c3c79a615a3448461587f40f6de99",
+  "G:\\aibot\\AssertBert\\eval\\addEvalAll\\outputs_tuning_20261008\\test_labels.parquet": "150b485a32d2a33657ab29117cdd2b68ede686163b3f21ffb265eba7e4570f59",
+  "G:\\aibot\\AssertBert\\eval\\addEvalAll\\outputs_tuning_20261008\\final\\M1.npy": "ba08e802835cfc99aa0da7bf4b2b5c4e44e9e447b512c49a0b6bf516fdd8b82e",
+  "G:\\aibot\\AssertBert\\eval\\addEvalAll\\outputs_tuning_20261008\\final\\M2.npy": "94503e4352fe5fc74fd058839123c138a42a05a6bcce29e5250b1557cfb56343",
+  "G:\\aibot\\AssertBert\\eval\\addEvalAll\\outputs_tuning_20261008\\final\\M3.npy": "f4ed7e7e6e1c8c6c50f4d0e7e0b4569ff003ce46ba537b9ceb9875f32d57806e",
+  "G:\\aibot\\AssertBert\\eval\\addEvalAll\\outputs_tuning_20261008\\final\\M4.npy": "1f5bc89a7c1bee35c7648450a562df9ef3f8e321c050a6380b36f9357b4841c6",
+  "G:\\aibot\\AssertBert\\eval\\addEvalAll\\outputs_tuning_20261008\\final\\M5.npy": "0a0c21ce13a31d45f4223d6669241e621d69e531fd120e4e25bbc0342e0ed883"
+}

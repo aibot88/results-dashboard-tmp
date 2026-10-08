@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "metric_rows": 20,
+  "monthly_rows": 350,
+  "mean_reconciliation_tolerance": 1e-12,
+  "original_summary_byte_identical": true,
+  "browser": {
+    "svg_charts": 6,
+    "console_errors": 0,
+    "desktop_overflow": false,
+    "EW_VW_switch": true,
+    "validation_14_months": true,
+    "test_21_months": true,
+    "M3_VW_net_display": "-0.819%",
+    "default": "VW / Test / M5 / gross"
+  }
+}
